@@ -19,7 +19,7 @@ public class Main {
             if(newArray[i] == null) {
                 return;
             }
-            System.out.print(newArray[i].getAuthor().getFirstName() + " " + newArray[i].getAuthor().getLastName()
+            System.out.print(newArray[i].getNameAuthor().getFirstName() + " " + newArray[i].getNameAuthor().getLastName()
                     + ": " + newArray[i].getNameBook() + ": " + newArray[i].getYearOfPublication());
             System.out.println();
         }
