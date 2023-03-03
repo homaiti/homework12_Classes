@@ -1,4 +1,4 @@
-package pro.sky.java.course1.lesson12Classes;
+package pro.sky.java.course1.lesson12Classes_13ObjectMethotds;
 
 public class Main {
 
